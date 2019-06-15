@@ -1,4 +1,4 @@
-#The Open Redaction Blocks (ORB) Project
+# The Open Redaction Blocks (ORB) Project
 
 What we did is extract all of the large black blocks in the Mueller Report as individual works of art. These individual works are called ORBs (Open Redaction Blocks).
 
